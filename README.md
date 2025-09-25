@@ -1,0 +1,2 @@
+# Multicriteria-Shortest-Path-Optimizer-using-Metaheuristics
+A Python-based multicriteria shortest path optimizer for multimodal transportation networks. Implements metaheuristic algorithms (Genetic Algorithm, Ant Colony Optimization, Ant Colony System, and OFM) to find Pareto-optimal routes based on time, cost, and distance. Includes visualization tools and an interactive GUI for solution analysis.
